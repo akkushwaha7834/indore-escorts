@@ -620,7 +620,66 @@ footer{
 .gallery_image img{
     border-radius: 10px;
 }
-
+.bg-dark-pink {
+    background: #0d6efd;
+}
+.main-heading {
+    font-weight: 900;
+    font-size: 35px;
+    text-transform: capitalize;
+    border-bottom: 10px dotted;
+    margin-bottom: 20px;
+    padding-bottom: 10px !important;
+}
+.row.dffw {
+    margin-top: -40px !important;
+}
+.models-photo {
+    float: left;
+    position: relative;
+    margin-top: 60px;
+}
+.bg-dark-pink .col.girl-item.rounded {
+    background-color: #fff;
+    color: #000;
+    padding: 10px;
+}
+.girl-item {
+    border: #590000 1px solid;
+    box-sizing: border-box;
+    padding: 0;
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+    background: #eb185c;
+}
+.imag_box_profile {
+    width: 100%;
+    height: 364px;
+    overflow: hidden;
+    object-fit: cover;
+}
+.imag_box_profile>a>img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.girl-item-desc .name {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0;
+    font-style: oblique;
+    font-family: flourish;
+}
+.girl-item-desc .name2 {
+    background: #000 !important;
+    color: #fff !important;
+    padding: 10px !important;
+    margin: 0 !important;
+    position: absolute;
+    bottom: 9px;
+    width: 93%;
+}
 
 
 
