@@ -680,7 +680,45 @@ footer{
     bottom: 9px;
     width: 93%;
 }
-
+.footer-min {
+    background: #d6d6eb;
+    padding-top: 25px;
+}
+.linkingBx h5.font_dark {
+    color: #fff;
+    text-align: center;
+    font-size: 26px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+}
+ul.list2col {
+    width: 100%;
+    margin: 0 0 1em 0;
+    text-align: center;
+    padding: 0;
+}
+ul.list2col li {
+    float: none;
+    width: auto;
+    color: #333;
+    display: inline-block;
+    padding: 0;
+    border: 1px solid #003f4c;
+    height: auto;
+    margin: 0 10px 10px;
+    border-radius: 5px;
+    transition: all .4s;
+}
+ul.list2col li a {
+    padding: 10px 15px;
+    display: block;
+    color: #fff;
+    background: #e7186e;
+    transition: all .4s;
+}
+.font_dark span {
+    color: #000;
+}
 
 
 
